@@ -1,4 +1,4 @@
-# PROJECT 1
+# PROJECT 1&2
 	Title: Return Rate Dashboard Project
 	Introduction
 In this project, I tried to analyze and visualize the return rates of the products in order to understand customer behavior, product performance, and operational problems. The dashboard gives insights into return percentages based on categories, reasons for returns, regional distribution of orders, and monthly trends. Through this analysis, areas where quality control, logistics, and customer satisfaction strategies can be improved can be determined.
